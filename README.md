@@ -1,6 +1,6 @@
 # r/Place 2022 heatmap
 
-The code is open source and free to use, all I ask is you give me credit (to either u/DeathByElectives or the repo) if you do post any visualisations. 
+The code is open source and free to use, all I ask is you give credit (to either u/DeathByElectives or the repo) if you do post any visualisations. 
 
 ## Running heatmap locally
 
