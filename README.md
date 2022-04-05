@@ -13,4 +13,5 @@ The code is open source and free to use, all I ask is you give credit (to either
 
 ## This will remain an open source project so any pull requests and suggestions are welcome
 
-- There is still plenty to be done, I've made a list of known problems and improvements in issues.  
+- There is plenty to be improved on here, would be a good first project for someone looking to get into image processing.
+  - Some ideas have been suggested in the issues tab to get someone started 
