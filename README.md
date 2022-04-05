@@ -8,7 +8,7 @@ The code is open source and free to use, all I ask is you give credit (to either
 
 - Install Python and the dependences listed in `requirements.txt` (by using `pip install -r requirements.txt`)
 
-- Open the notebook in your IDE of choice and run (Plan on adding a standalone script shortly)
+- Open the notebook in your IDE of choice and run
 
 
 ## This will remain an open source project so any pull requests and suggestions are welcome
