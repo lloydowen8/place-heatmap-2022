@@ -7,7 +7,7 @@ If you don't have experience in coding but still want to explore the data (blend
 ## Running heatmap locally
 
 - Download the image data from [here](https://place.thatguyalex.com/)
-  - Extract image data from the zip into the top-level directory
+  - Extract image data from the zip into the top-level directory, so that the `image_` folders are in `./final_v1/`
 
 - Install Python and the dependences listed in `requirements.txt` (by using `pip install -r requirements.txt`)
 
