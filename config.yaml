@@ -1,0 +1,26 @@
+timelapse:
+  image-range:
+    start: 1648995088
+    end: 1649113741
+  frame-granularity: 1  # take every nth image
+  download-threads: 8
+
+# Canada is given as an example
+place-canvas:
+  top-left-coordinates:
+    x: 176
+    y: 485
+  dimensions:
+    width: 68
+    height: 44
+
+heatmap: 
+  intensity: 140
+  decay:  10
+
+output:
+  name: "canada"
+  dimensions:
+    width: 680
+    height: 440
+  
