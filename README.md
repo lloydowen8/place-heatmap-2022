@@ -22,7 +22,7 @@ Scraper code adapted from [Robin Gisler](https://github.com/gislerro/)
 
 - Open the notebook in your IDE of choice and run
 
-## Aany pull requests and suggestions are welcome
+## Any pull requests and suggestions are welcome
 
 - There is plenty to be improved on here, would be a good first project for someone looking to get into image processing.
   - Some ideas have been suggested in the issues tab to get someone started 
