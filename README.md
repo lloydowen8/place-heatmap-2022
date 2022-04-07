@@ -10,6 +10,7 @@ If you don't have experience in coding but still want to explore the data (blend
   - Extract image data from the zip into the top-level directory, so that the `images_` folders are in `./final_v1/`
 
 - Install Python and the dependences listed in `requirements.txt` (by using `pip install -r requirements.txt`)
+  - Python 3.9 or earlier is recommended - if you are using Python 3.10, the required version of numpy may fail to build.
 
 - Open the notebook in your IDE of choice and run
 
